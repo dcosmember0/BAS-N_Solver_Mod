@@ -1,0 +1,8 @@
+{
+  "$type": "ThunderRoad.Skill.Spell.SkillBoostJump, ThunderRoad",
+  "id": "BoostJump",
+  "sensitiveContent": "None",
+  "sensitiveFilterBehaviour": "Discard",
+  "version": 0,
+  "playerBoostForce": 600.0
+}

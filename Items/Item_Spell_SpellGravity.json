@@ -1,0 +1,11 @@
+{
+  "$type": "ThunderRoad.ItemData, ThunderRoad",
+  "id": "SpellGravity",
+  "sensitiveContent": "None",
+  "sensitiveFilterBehaviour": "Discard",
+  "version": 4,
+  "localizationId": null,
+  "displayName": "The Force",
+  "description": null,
+  "author": "Ball1sticEy3"
+}

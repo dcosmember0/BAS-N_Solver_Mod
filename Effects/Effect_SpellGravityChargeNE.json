@@ -1,0 +1,20 @@
+{
+  "$type": "ThunderRoad.EffectData, ThunderRoad",
+  "id": "SpellGravityChargeNE",
+  "sensitiveContent": "None",
+  "sensitiveFilterBehaviour": "Discard",
+  "version": 0,
+  "groupId": "Gravity",
+  "volumeDb": 0.0,
+  "modules": [
+    {
+      "$type": "ThunderRoad.EffectModuleParticle, ThunderRoad",
+      "effectLink": "Intensity",
+      "effectParticleAddress": ""
+    },
+    {
+      "$type": "ThunderRoad.EffectModuleVfx, ThunderRoad",
+      "vfxAddress": ""
+    }
+  ]
+}

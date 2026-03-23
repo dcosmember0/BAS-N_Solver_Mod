@@ -1,0 +1,9 @@
+{
+  "$type": "ThunderRoad.StatusDataFloating, ThunderRoad",
+  "id": "CustomFloating",
+  "sensitiveContent": "None",
+  "sensitiveFilterBehaviour": "Discard",
+  "version": 0,
+  "creatureEffectId": "ImbueGravityRagdollNE",
+  "itemEffectId": "ImbueGravityRagdollNE"
+}

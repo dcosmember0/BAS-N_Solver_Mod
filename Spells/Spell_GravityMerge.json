@@ -1,0 +1,10 @@
+{
+  "$type": "ThunderRoad.Skill.SpellMerge.SpellMergeGravity, ThunderRoad",
+  "id": "GravityMerge",
+  "sensitiveContent": "None",
+  "sensitiveFilterBehaviour": "Discard",
+  "version": 0,
+  "chargeEffectId": "SpellGravityChargeMerge",
+  "fingerEffectId": "SpellGravityChargeFingerNE",
+  "throwEffectId": ""
+}

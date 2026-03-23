@@ -1,0 +1,17 @@
+{
+  "$type": "ThunderRoad.EffectData, ThunderRoad",
+  "id": "ImbueGravityRagdollNE",
+  "sensitiveContent": "None",
+  "sensitiveFilterBehaviour": "Discard",
+  "version": 0,
+  "groupId": "Gravity",
+  "volumeDb": 0.0,
+  "modules": [
+    {
+      "$type": "ThunderRoad.EffectModuleParticle, ThunderRoad",
+      "effectLink": "Intensity",
+      "effectParticleAddress": ""
+    }
+  ],
+  "groupPath": null
+}
