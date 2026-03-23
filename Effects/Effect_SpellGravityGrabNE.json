@@ -10,7 +10,7 @@
     {
       "$type": "ThunderRoad.EffectModuleParticle, ThunderRoad",
       "effectLink": "Intensity",
-      "effectParticleAddress": ""
+      "effectParticleAddress": "Bas.Effect.Spell.Gravity.Grab"
     },
     {
       "$type": "ThunderRoad.EffectModuleAudio, ThunderRoad",
@@ -107,7 +107,7 @@
           {
             "$type": "UnityEngine.Keyframe, UnityEngine.CoreModule",
             "time": 0.0,
-            "value": 0.9,
+            "value": 1.3,
             "inTangent": 0.100000024,
             "outTangent": 0.100000024,
             "inWeight": 0.0,
